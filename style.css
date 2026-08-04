@@ -25,7 +25,7 @@ section {
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
-    background: white;
+    background-color; white;
     border-radius: 8px;
     box-shadius: 0 0 10px rgba(0, 0, 0, 0.1);
 }
